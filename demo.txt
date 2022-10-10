@@ -1,3 +1,5 @@
 day la danmeomeo
 
-danmeomeo edit lan 1.
+danmeomeo edit lan 1
+danmeomeo edit lan 2
+.
